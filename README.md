@@ -9,6 +9,7 @@ A big shoutout and thank you to [TechHut](https://www.youtube.com/@TechHut) for 
 - [Apps](https://github.com/DmitriyRogo/homelab/tree/main/apps) - List of all the apps and services.
 - [Home Assistant](https://github.com/DmitriyRogo/homelab/tree/main/homeassistant) - Smart home services and automation.
 - [Proxy, DNS Management](https://github.com/DmitriyRogo/homelab/tree/main/proxy) - NGINX Proxy Manager, CloudFlare Domain Manager, PiHole, and more.
+- [Twingate](https://github.com/DmitriyRogo/homelab/tree/main/twingate) - Twingate setup for accessing resources from anywhere...
 
 ### Servers
 
