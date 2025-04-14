@@ -35,7 +35,7 @@ By far the most popular “DNS Sinkhole” a Domain Name Service that blocks cer
 
 ### NGINX Proxy Manager
 
-![](https://github.com/DmitriyRogo/homelab/blob/main/apps/images/nxinx.png)
+![](https://github.com/DmitriyRogo/homelab/blob/main/apps/images/nginx.png)
 
 NGINX Proxy Manager is a simple web based proxy manager for setting up and forwarding domain names to your services and generating SSL certifications. I use this primarily for local top level domains. In order to access these domains from outside my network, I use [Twingate](https://www.twingate.com/) a VPN tunnel to access my resources.
 
